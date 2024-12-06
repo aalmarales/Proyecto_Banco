@@ -11,7 +11,7 @@
   <body>
    
  
-  
+  <h1>esta es la pagina de Alexis</h1>
     <img src="imagenes/finance_budgeting_powerpoint_presentation_slides_Slide01.jpg" alt="" width="900px" height="700px">
     <a href="views/viewLoginAdmin.php"><button type="submit" class="btn btn-primary btn-lg">ADMINISTRACION</button></a>
     
